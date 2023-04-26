@@ -315,6 +315,24 @@
     cursor: pointer;
 
 }
+.pet_button a:link{
+    text-decoration: none;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 130%;
+    color: #292929;
+}
+.pet_button a:visited{
+    text-decoration: none;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 130%;
+    color: #292929;
+}
 .card_button {
     margin-left: 41.5px;
     display: flex;
